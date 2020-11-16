@@ -1,18 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Compito3
 {
-    class Program
+    internal class Program
     {
         /// <summary>
         /// Inserire le coordinate di un punto del piano (x,y) e comunicare il numero del quadrante di appartenenza
         /// Riferimento quadranti https://drive.google.com/file/d/1WamrdR17zbcdXl6LIslE4jL06hnGgqMm/view
         /// </summary>
-        static void Main()
+        private static void Main()
         {
             try
             {
